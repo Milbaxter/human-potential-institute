@@ -1,44 +1,40 @@
-# First experiments
+# Experiments that could change what we know
 
-These are small exploratory pilots. Finalize one protocol before starting; do not combine interventions initially.
+The target is durable improvement in life. A good session or enthusiastic testimonial is an early signal, not the endpoint. These are proposed designs, not validated programs.
 
-## 1. North star: does a values reminder change action?
+## 1. Which lever produces the largest lasting benefit?
 
-**Hypothesis:** connecting a planned action to a personally chosen direction improves follow-through beyond ordinary planning.
+**Test:** a coordinated randomized comparison of six programs: clarifying a north star and acting on it; graded practice approaching everyday fears; acceptance/letting go; dependable peer community; sleep support; and exercise. Include a credible educational control. Use the same population, assessment schedule and participant time budget; document differences in contact, expectations and delivery costs.
 
-Write one sentence describing a direction worth pursuing. Across 24 eligible days, choose a concrete, meaningful action and completion criterion before revealing that day's assignment. Randomize within six four-day blocks: two days with five minutes connecting the action to the north star, two with five minutes of ordinary logistical planning.
+Run programs for 12 weeks. **Primary outcome:** wellbeing on a prespecified validated scale at six months. Secondary outcomes: functioning, independently assessable progress on chosen goals, relationships, harms and cost. Follow up at 12 months. Analyze everyone as assigned and correct for multiple comparisons; shared-group programs require analysis that accounts for clustering.
 
-**Primary outcome:** action completed by the preset deadline, yes/no. Compare completion proportions and show results by block. Prespecify a personally worthwhile difference; keep missed days and reasons visible. Record effort and evening wellbeing as secondary outcomes.
+**Belief changed:** which programs justify people's time under comparable conditions, whether effects last, and whether favored philosophies outperform familiar alternatives. Ranking alone is insufficient: differences must be meaningful and estimated precisely. Replicate promising findings in a new population.
 
-This tests the incremental effect of a reminder, not whether discovering a purpose transforms life. Carryover, expectations and changing task difficulty limit inference. Repeat with another person before generalizing.
+**Requires:** multiple delivery partners and a large, prospectively powered sample. This is the flagship comparison.
 
-## 2. Everyday fear: does a small approach step reduce avoidance?
+## 2. Is supportive community an ingredient—or what makes other practices work?
 
-**Hypothesis:** naming a feared prediction and taking a small, safe step improves follow-through more than reflection alone.
+**Test:** a 2×2 randomized experiment crossing north-star work versus practical planning with a stable, reciprocally supportive group versus ordinary social activities. Match time and facilitator contact. Define support concretely: reliable attendance, listening, reciprocity and permission to disagree.
 
-Use ordinary avoided tasks, such as asking a question or sharing unfinished work. Across 20 prespecified opportunities, randomize five minutes of prediction-plus-action planning versus five minutes of descriptive journaling. Match attention and record task difficulty before allocation.
+Randomize groups across all four conditions to limit spillover. Measure six-month wellbeing as primary; track goal follow-through and distress recovery as secondary. Power the study for the interaction and account for group clustering.
 
-**Primary outcome:** task attempted within 24 hours. Compare assigned conditions; record expected versus actual consequences. This studies everyday avoidance, not treatment of anxiety disorders or trauma.
+**Belief changed:** a replicated interaction would suggest that the social setting changes the effectiveness of personal practices. Main effects without interaction would support separate benefits; a precise null would challenge the proposed dependence. Self-reports alone do not establish nervous-system “regulation.”
 
-## 3. Letting go: does acceptance add anything to quiet rest?
+**Start here:** write the four short manuals with a behavioral scientist and community partner. Pilot recruitment, retention and whether the conditions differ as intended; then run the powered test. This gives the institute a focused first contribution while building toward study 1.
 
-**Hypothesis:** a brief acceptance practice reduces lingering distress after everyday frustrations more than equal-duration rest.
+## 3. Can we learn what a particular person needs next?
 
-Across 20 eligible occasions, randomly assign ten minutes noticing sensations and allowing thoughts without trying to solve them, or ten minutes of quiet rest. Fix eligibility and measurement timing beforehand.
+**Test:** sequential randomization using promising programs from the earlier studies. Randomize an initial intervention, then re-randomize nonresponders to switch or add a different one. Prespecify response criteria and decision times. Test candidate moderators such as loneliness, avoidance and lack of direction.
 
-**Primary outcome:** change in self-rated distress from before the exercise to 30 minutes afterward. Track whether the person resumes a valued activity. Learning may carry into control occasions; self-report cannot establish a physiological mechanism. Stop if the practice worsens distress or causes dissociation.
+Develop a decision rule in one dataset, freeze it, then compare rule-guided care with the best fixed program in a separate randomized trial with comparable resources.
 
-## 4. Community: does structured listening add to ordinary company?
+**Primary outcome:** 12-month wellbeing; functioning, burden and harms remain required secondary outcomes.
 
-**Hypothesis:** dependable, reciprocal listening improves felt support beyond simply spending time together.
+**Belief changed:** better outcomes would support actionable personalization. Failure would favor a simpler common program. Interesting subgroup correlations alone cannot establish what someone should do next.
 
-With willing peers, alternate randomly ordered weekly sessions of structured listening and ordinary social conversation, matching group, duration and setting. Start with eight sessions; no pressured disclosure or unsolicited advice.
+## Build on existing work
 
-**Primary outcome:** next-day perceived support on a fixed scale. Track attendance and distress. Treat the session as the allocation unit, preserve individual differences, and acknowledge lasting group effects. This is a feasibility pilot, not evidence of a biological “regulation” mechanism.
+- [Acceptance dismantling trial, 2018](https://pubmed.ncbi.nlm.nih.gov/29040891/): motivates separating active ingredients.
+- [Mindfulness versus social contact, 2026](https://pubmed.ncbi.nlm.nih.gov/41628950/): found no significant primary loneliness advantage at 12 months in older adults. This supports demanding credible comparisons; it does not establish equivalence.
 
-## Starting evidence
-
-- [Lindsay et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29040891/): a randomized trial isolates acceptance training as a candidate mechanism. It does not validate our shorter exercise.
-- [Kahlon et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33620417/): empathy-focused calls improved outcomes in a specific population; the control does not isolate listening from attention.
-
-Before recruiting research participants, settle consent, privacy and appropriate ethics review. Persistent or severe anxiety belongs with qualified care; these pilots do not replace it.
+Set sample sizes from worthwhile effects, attrition and clustering. Obtain ethics review and consent; provide qualified support for distress. A study of a Buddhist-inspired practice tests that intervention, not Buddhism as a whole.

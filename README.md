@@ -1,22 +1,19 @@
 # Human Potential Institute
 
-An independent research project asking which practical changes most improve a person's ability to live well: choose a direction, act despite fear, recover from distress, and build sustaining relationships.
+**Ambition: discover the most powerful, durable and accessible ways to improve human lives—and establish why they work.**
 
-**Working hypothesis:** direction, less avoidance, acceptance and dependable community are powerful levers. Their value must show up in daily life.
+Study direction, fear and avoidance, Buddhist-inspired letting go, and dependable community alongside alternatives such as sleep and exercise. Measure the ability to pursue chosen goals, wellbeing and relationships. Let people define a life worth living.
 
-We study a person's own goals and wellbeing. More output is not automatically a better life. Buddhist ideas about letting go are sources of testable practices; testing one exercise does not test a whole tradition.
+The central question: **what actually changes a person's trajectory, for whom, and under what conditions?**
 
-## First milestone
+## What would count as progress?
 
-One modest behavioral finding reproduced by someone else using the same protocol. Start with the north-star experiment in [Experiments](EXPERIMENTS.md).
+A replicated result that changes where people invest their time: which practices matter, whether supportive relationships enable them, and how to choose the next intervention when someone remains stuck.
 
-## How we work
+[Research agenda](EXPERIMENTS.md): compare the strongest candidates, isolate their interactions, and test personalized sequences.
 
-1. Choose one question by likely benefit, evidence, effort and risk. Consider sleep, exercise and practical circumstances as competing explanations or better starting points.
-2. Commit a [Research record](RECORD.md) before collecting data.
-3. Compare against a credible alternative, measure behavior, and preserve failures.
-4. Have someone challenge the interpretation and independently repeat the method.
+## Work in the open
 
-Track time cost and unwanted effects alongside benefit. Keep personal journals and identifiable participant data outside Git. Tools may assist; people choose the questions and verify conclusions.
+Preregister the question and analysis using the [research record](RECORD.md). Publish methods, code, permitted data, null results and harms. Use credible controls, track costs, and test whether gains survive after structured support ends. Keep personal journals and identifiable data outside Git.
 
-**Status:** proposals only; no experiments run and no findings yet.
+**First milestone:** one independently replicated causal result that changes a practical decision. **Status:** proposed research; no findings yet.

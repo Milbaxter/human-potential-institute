@@ -3,6 +3,7 @@
 Copy to `studies/001-short-question.md`. Commit the completed plan before starting; append dated amendments.
 
 - **Question and whose life it should improve:**
+- **Decision this study could change; closest existing evidence:**
 - **Prediction; what would change our mind:**
 - **Intervention, comparator, duration and allocation:**
 - **Primary outcome; meaningful effect threshold:**
@@ -15,7 +16,7 @@ After completion:
 - **Result and uncertainty, including null/adverse outcomes:**
 - **Deviations and strongest alternative explanation:**
 - **Claim supported; claim not supported:**
-- **Independent reproduction: pending / succeeded / failed:**
+- **Independent reanalysis and new-sample replication: pending / succeeded / failed:**
 - **Next question:**
 
 Keep personal journals and identifiable data outside the repository. Include only data cleared for sharing; synthetic examples must be labeled.
